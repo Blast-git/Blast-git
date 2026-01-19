@@ -20,7 +20,6 @@
 
 I am a Software Engineering undergraduate specialized in **Systems Engineering** and **Applied AI**. My engineering focus is on building performance-aware backend systems and optimizing machine learning models for latency and memory usage on Linux environments.
 
-* **Current Focus:** Designing an ML-based system to predict optimal camera parameters (ISO, exposure).
 * **Core Skills:** Operating Systems, Computer Architecture (Caches, Memory Hierarchy), and Concurrency.
 * **Achievement:** Top 100 Team in the **Google GenAI Exchange Hackathon 2025**.
 
